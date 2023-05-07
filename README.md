@@ -22,6 +22,15 @@ Raspberry Pi Pico用のデバッグ用ボード。
 * 全信号2列引き出し
   * 信号引き出しつつ、ロジックアナライザを接続可能
 
+## 使用例
+
+### RPi Picoを2枚つかったSWDデバッグ
+
+上側のデバッグ基板のファームウェアとして [`rust-dap`](https://github.com/ciniml/rust-dap) を書き込み。下側のRaspberry Pi PicoにLチカファームウェアをデバッガ経由で書き込んでデバッグ中
+
+<img src="./figure/RPiPico_DebugBoard_Debugging.jpg" alt="RPi Picoを2枚つかったSWDデバッグ" width="25%"/>
+
+
 ## ライセンス
 
 ### 基板本体
