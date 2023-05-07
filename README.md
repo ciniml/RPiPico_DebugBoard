@@ -6,6 +6,14 @@ Raspberry Pi Pico用のデバッグ用ボード。
 
 ブレッドボードを使うほどでもないが、デバッガはつなぎたい もしくはPicoprobeのデバッグ・ユニットとして使いたい場合に便利なように配線を引き出すためのボードです。
 
+![回路図](./RPiPico_SimpleBoard.svg)
+
+[回路図(PDF)](./RPiPico_SimpleBoard.pdf)
+
+![基板表](./SVG/RPiPico_SimpleBoard-brd_F.svg)
+
+![基板裏](./SVG/RPiPico_SimpleBoard-brd_B.svg)
+
 ## 特徴
 
 * リセット・スイッチ
