@@ -6,8 +6,8 @@
 
   (title_block
     (title "RPi Pico Debug Board")
-    (date "2023-02-19")
-    (rev "Rev.B")
+    (date "2023-05-10")
+    (rev "Rev.C")
     (company "Kenta IDA")
   )
 
